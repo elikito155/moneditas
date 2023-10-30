@@ -1,0 +1,24 @@
+[
+    {
+        "País": "GER",
+        "Año": 2021,
+        "Título": "30 years of the European Monetary Union",
+        "Cantidad": 5,
+        "Referencia": "GER-2021"
+    },
+    {
+        "País": "FRA",
+        "Año": 2019,
+        "Título": "Simone Veil",
+        "Cantidad": 3,
+        "Referencia": "FRA-2019"
+    },
+    {
+        "País": "ITA",
+        "Año": 2020,
+        "Título": "Bartolomeo Borghesi",
+        "Cantidad": 2,
+        "Referencia": "ITA-2020"
+    }
+    // Puedes agregar más monedas de 2 euros de diferentes países aquí
+]
